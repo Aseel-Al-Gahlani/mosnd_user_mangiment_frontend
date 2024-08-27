@@ -1,0 +1,1 @@
+# mosnd_user_mangiment_frontend
